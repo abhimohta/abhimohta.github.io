@@ -24,4 +24,4 @@ redirect_from:
  *Machine Learning Intern, Microsoft India Development Center*  
  *Guide: Narayanan Subramanian, Principal Software Engineering Manager*  
  *Worked on XYZ, ABC*
-~                                
+                                
