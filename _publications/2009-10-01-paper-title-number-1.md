@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 
-* **XYZ** *(Submitted)*  
- *ABC 2018 (under review)*  
- **Mohta, Abhishek***, ZYX, ABC, et. al.*
+* **Neural-Guided Deductive Search for Real-Time Program Synthesis** *(Submitted)*  
+ *Patent filed and submitted to International Conference on Learning Representations (ICLR) 2018 (under review)*  
+ **Abhishek Mohta***, Ashwin Kalyan, Prateek Jain, et. al.*  
+ Copy available on request
 
