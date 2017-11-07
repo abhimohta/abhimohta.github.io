@@ -9,6 +9,8 @@ redirect_from:
 ---
 I'm currently working as a Research Fellow at Microsoft Research India under Dr. Prateek Jain. In the current project, I am exploring the application of Deep Learning to the domain of Program Synthesis. In the past, I have worked in the fields of Machine Learning and Systems at my various internships at Microsoft Research, Amazon, Microsoft IDC and IIRS.  
   
+I aspire to be a researcher-cum-tech entrepreneur in the future, solving challenging and cutting-edge problems and helping the society grow.  
+  
 I graduated in Economics and Computer Science with distinction from BITS Pilani, K K Birla Goa Campus. During college days I had worked on a number of projects in web development, machine learning, data mining and software engineering.  
     
 For more details on my projects, please visit my [projects](https://abhimohta.github.io/projects) page.  
