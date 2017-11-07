@@ -7,4 +7,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Research Fellow at Microsoft Research India.
+I'm a Research Fellow at Microsoft Research India.  
+You can find my complete resume [here](https://abhimohta.github.io/files/resume.pdf).

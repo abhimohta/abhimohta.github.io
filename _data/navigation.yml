@@ -18,11 +18,11 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
 
-  - title: "Co-Curricular"
-    url: /cocurricular/
+  #- title: "Co-Curricular"
+  #  url: /cocurricular/
     
   #- title: "Guide"
   #  url: /markdown/
