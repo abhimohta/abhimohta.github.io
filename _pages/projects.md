@@ -25,17 +25,17 @@ redirect_from:
  *Machine Learning Intern, Microsoft India Development Center*  
  Guide: [Narayanan Subramanian](https://www.linkedin.com/in/narayanan-subramanian-1772802/)  
  *Implemented a classifier to find new/missing restaurants in the Bing database levaraging user query logs. Achieved accuracy of over 90%.*  
-* **Clustering closely-related terrorist attacks leveraging the Global Terrorism database**  
+* **Clustering closely-related terrorist attacks leveraging the Global Terrorism database** [code](https://github.com/abhimohta/Clustering-on-Global-Terrorism-Database)  
  *Mined the data in the Global Terrorism database and analysed it using optimized K-means algorithm using Hadoop and Java.*  
-* **Centralized management portal for family business**  
+* **Centralized management portal for family business** [code](https://github.com/abhimohta/Centralized-Management-Portal-for-Factories)  
  *Implemented a management portal for my fathers' business - to centrally handle multiple factories and orders. Developed using HTML, CSS, PHP, JavaScript, MySQL.*  
-* **Co-Founder, Xinger - a fully automated online food ordering portal**  
+* **Co-Founder, Xinger - a fully automated online food ordering portal** [code] (https://github.com/abhimohta/Restaurant-Aggregating-Portal)  
  *Developed the complete portal in a short span of 2 days and negotiated and closed deals with over 20 restaurants. The startup had a client base of over 7000 and generated over $25,000 revenue in the 2 years of operation.*  
-* **Development of BITS Pilani Goa main gate security system**  
-* **Designed a VLIW pipelined processor for a given set of instructions**  
-* **Designed a Write Through, FIFO, Way Prediction cache of 512B with associativity 2** 
+* **Development of BITS Pilani Goa main gate security system** [code](https://github.com/abhimohta/Main-Gate-Security-System)  
+* **Designed a VLIW pipelined processor for a given set of instructions** [code](https://github.com/abhimohta/VLIW-Processor)  
+* **Designed a Write Through, FIFO, Way Prediction cache of 512B with associativity 2** [code](https://github.com/abhimohta/Cache-Design)  
 * **Designed a microprocessor based flour packing machine on Proteus programmed in assembly language** 
-* **Developed a stand-alone mess management software in Java using JDBC and MySQL**  
+* **Developed a stand-alone mess management software in Java using JDBC and MySQL** [code](https://github.com/abhimohta/Mess-Management-Software)  
   
 For more details, please refer to my [resume](https://abhimohta.github.io/files/resume.pdf) or contact me.  
 
