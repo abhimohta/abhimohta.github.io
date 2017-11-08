@@ -10,6 +10,6 @@ redirect_from:
 
 * **Neural-Guided Deductive Search for Real-Time Program Synthesis** *(Submitted)*  
  *Patent filed and submitted to International Conference on Learning Representations (ICLR) 2018 (under review)*  
- **Abhishek Mohta***, Ashwin Kalyan, Prateek Jain, et. al.*  
+ **Abhishek Mohta***, Ashwin Kalyan, Oleksandr Polozov, Dhruv Batra, Sumit Gulwani, Prateek Jain*  
  Copy available on request
 
