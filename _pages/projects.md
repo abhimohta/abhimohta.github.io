@@ -7,7 +7,7 @@ redirect_from:
   - /projects.html/
 ---
 
-* **Neural-Guided Deductive Search for Real-Time Program Synthesis**  
+* **Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples**  
  *Research Fellow at Microsoft Research Lab India Pvt. Ltd.*  
  Guide: [Dr. Prateek Jain](https://www.microsoft.com/en-us/research/people/prajain/)  
  *Implemented NGDS - a hybrid technique that combines symbolic logic techniques and statistical models to reduce branch exploration in PROSE by over 50% and gain speed up of over 10x in important benchmarks.*  
