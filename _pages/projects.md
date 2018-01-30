@@ -11,7 +11,7 @@ redirect_from:
  *Research Fellow at Microsoft Research Lab India Pvt. Ltd.*  
  Guide: [Dr. Prateek Jain](https://www.microsoft.com/en-us/research/people/prajain/)  
  *Implemented NGDS - a hybrid technique that combines symbolic logic techniques and statistical models to reduce branch exploration in PROSE by over 50% and gain speed up of over 10x in important benchmarks.*  
- *Patent filed and research paper in review for the International Conference on Learning Representations (ICLR) 2018.*  
+ *Patent filed and research paper accepted as a conference paper at the International Conference on Learning Representations (ICLR) 2018.*  
  For more details about PROSE, please check this [page](https://microsoft.github.io/prose/).        
 * **Static Module Verifier Automation**  
  *Research Intern at Microsoft Research Lab India Pvt. Ltd.*  
