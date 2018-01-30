@@ -12,5 +12,5 @@ redirect_from:
  *International Conference on Learning Representations (ICLR) 2018, Vancouver, Canada*  
  *Patent filed*  
  **Abhishek Mohta***, Ashwin Kalyan, Oleksandr Polozov, Dhruv Batra, Sumit Gulwani, Prateek Jain*  
- Link to paper: https://openreview.net/forum?id=rywDjg-RW
+ Link to [paper](https://openreview.net/forum?id=rywDjg-RW)
 
