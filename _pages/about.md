@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Update: I will be joining Carnegie Mellon University (CMU) as a graduate student pursuing Masters in Computer Science starting Fall 2018.  
+
 I'm currently working as a Research Fellow at Microsoft Research India under Dr. Prateek Jain. In the current project, I am exploring the application of Deep Learning to the domain of Program Synthesis. In the past, I have worked in the fields of Machine Learning and Systems at my various internships at Microsoft Research, Amazon, Microsoft IDC and IIRS.  
   
 I aspire to be a researcher-cum-tech entrepreneur in the future, solving challenging and cutting-edge problems and helping the society grow.  
