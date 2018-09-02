@@ -7,13 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Update: I will be joining Carnegie Mellon University (CMU) as a graduate student pursuing Masters in Computer Science starting Fall 2018.  
+I'm currently a graduate student pursuing Masters in Computer Science at Carnegie Mellon University (CMU). I'm actively looking out for summer internships for Summer 2019 in the fields of Machine Learning and Systems.   
 
-I'm currently working as a Research Fellow at Microsoft Research India under Dr. Prateek Jain. In the current project, I am exploring the application of Deep Learning to the domain of Program Synthesis. In the past, I have worked in the fields of Machine Learning and Systems at my various internships at Microsoft Research, Amazon, Microsoft IDC and IIRS.  
+Prior to CMU, I was working as a Research Fellow at Microsoft Research India under Dr. Prateek Jain. In the project, I was exploring the application of Deep Learning to the domain of Program Synthesis, more specifically to the PROSE framework inbuilt in Microsoft Excel. In the past, I have worked in the fields of Machine Learning and Systems at my various internships at Microsoft Research, Amazon, Microsoft IDC and IIRS.    
   
-I aspire to be a researcher-cum-tech entrepreneur in the future, solving challenging and cutting-edge problems and helping the society grow.  
-  
-I graduated in Economics and Computer Science with distinction from BITS Pilani, K K Birla Goa Campus. During college days I had worked on a number of projects in web development, machine learning, data mining and software engineering.  
+I graduated in Economics and Computer Science with distinction from BITS Pilani, India. During undergraduate days I had worked on a number of projects in web development, machine learning, data mining and software engineering.  
     
 For more details on my projects, please visit my [projects](https://abhimohta.github.io/projects) page.  
   

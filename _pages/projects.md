@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /projects.html/
 ---
-
+**Research/Industry projects**
 * **Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples**  
  *Research Fellow at Microsoft Research Lab India Pvt. Ltd.*  
  Guide: [Dr. Prateek Jain](https://www.microsoft.com/en-us/research/people/prajain/)  
@@ -27,7 +27,9 @@ redirect_from:
  *Implemented a classifier to find new/missing restaurants in the Bing database levaraging user query logs. Achieved accuracy of over 90%.*  
 * **Clustering closely-related terrorist attacks leveraging the Global Terrorism database**  
  [Source code](https://github.com/abhimohta/Clustering-on-Global-Terrorism-Database)  
- *Mined the data in the Global Terrorism database and analysed it using optimized K-means algorithm using Hadoop and Java.*  
+**Course projects/Initiatives**
+ *Implemented the malloc/calloc/free function, a proxy server with cache, a linux shell (tsh-tiny shell) and a generic cache simulator from scratch. [Code available on request] 
+*Mined the data in the Global Terrorism database and analysed it using optimized K-means algorithm using Hadoop and Java.*  
 * **Centralized management portal for family business**  
  [Source code](https://github.com/abhimohta/Centralized-Management-Portal-for-Factories)  
  *Implemented a management portal for my fathers' business - to centrally handle multiple factories and orders. Developed using HTML, CSS, PHP, JavaScript, MySQL.*  
