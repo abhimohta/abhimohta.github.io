@@ -25,8 +25,10 @@ redirect_from:
  *Machine Learning Intern, Microsoft India Development Center*  
  Guide: [Narayanan Subramanian](https://www.linkedin.com/in/narayanan-subramanian-1772802/)  
  *Implemented a classifier to find new/missing restaurants in the Bing database levaraging user query logs. Achieved accuracy of over 90%.*  
+  
 **Course projects/Initiatives**  
- *Implemented the malloc/calloc/free function, a proxy server with cache, a linux shell (tsh-tiny shell) and a generic cache simulator from scratch. [Code available on request] (Introduction to Computer Systems (15-513), CMU)  
+  
+* Implemented the malloc/calloc/free function, a proxy server with cache, a linux shell (tsh-tiny shell) and a generic cache simulator from scratch. [Code available on request] (Introduction to Computer Systems (15-513), CMU)  
 * **Clustering closely-related terrorist attacks leveraging the Global Terrorism database (Data Mining, BITS Pilani)**  
  [Source code](https://github.com/abhimohta/Clustering-on-Global-Terrorism-Database)  
 *Mined the data in the Global Terrorism database and analysed it using optimized K-means algorithm using Hadoop and Java.*  
