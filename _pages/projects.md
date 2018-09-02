@@ -26,8 +26,8 @@ redirect_from:
  Guide: [Narayanan Subramanian](https://www.linkedin.com/in/narayanan-subramanian-1772802/)  
  *Implemented a classifier to find new/missing restaurants in the Bing database levaraging user query logs. Achieved accuracy of over 90%.*  
 * **Open-sourcing remote-sensing software ERDAS**  
- *Intern, Indian Institute of Remote Sensing, Dehradun  
- *Implemented a tool to process satellite images and open-sourced the commonly used remote sensing software ERDAS. As a part of the project, we implemented several machine learning algorithms – SVM, K-means, etc. using which we were trying to build the various features of the software like vegetation mapping and cloud cover. (Team of 6)  
+ *Intern, Indian Institute of Remote Sensing, Dehradun*  
+ *Implemented a tool to process satellite images and open-sourced the commonly used remote sensing software ERDAS. As a part of the project, we implemented several machine learning algorithms – SVM, K-means, etc. using which we were trying to build the various features of the software like vegetation mapping and cloud cover. (Team of 6)*  
   
 **Course projects/Initiatives**  
   
