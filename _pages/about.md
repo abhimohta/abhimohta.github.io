@@ -17,4 +17,4 @@ For more details on my projects, please visit my [projects](https://abhimohta.gi
   
 Moreover, I love meeting people, public speaking, event management and leading teams in general. Apart from being an active debater and participant in Model United Nations in the past, I have had a food delivery startup of my own along with a team of 5. Also, I led a team of over 300 students and successfully organised [Waves](https://www.facebook.com/bitswaves/) 2014, the annual cultural festival of my college. I have also represented India in the [HPAIR Harvard-Asia Conference](https://www.facebook.com/official.hpair/) and the [PASCH Project](https://www.goethe.de/ins/in/en/spr/eng/pas.html), where I completed the A1 and A2 course in Deutsch during a fully-funded 21-day youth camp in Germany.  
   
-You can find my complete resume [here](https://abhimohta.github.io/files/resume.pdf) and the short resume [here](https://abhimohta.github.io/files/single_page_resume.pdf).
+You can find my resume [here](https://abhimohta.github.io/files/single_page_resume.pdf).
