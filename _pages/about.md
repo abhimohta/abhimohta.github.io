@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently a graduate student pursuing Masters in Computer Science at Carnegie Mellon University (CMU). I'm actively looking out for summer internships for Summer 2019 in the fields of Machine Learning and Systems.   
+I'm currently a graduate student pursuing Masters in Computer Science at Carnegie Mellon University (CMU). I'm actively looking out for full-time opportunities starting January 2020 in the domain of Machine Learning and Systems.  
+
+During my time at CMU, I have taken up courses in the domain of Statistics, Machine Learning, Deep Learning, Systems and Algorithms. During the summer of 2019, I worked as an intern in the Prediction team at Uber ATG, the self-driving wing of Uber, working on a novel machine learning algorithm to predict the trajectory of actors surrounding the autonomous vehicles.  
 
 Prior to CMU, I was working as a Research Fellow at Microsoft Research India under Dr. Prateek Jain. In the project, I was exploring the application of Deep Learning to the domain of Program Synthesis, more specifically to the PROSE framework inbuilt in Microsoft Excel. In the past, I have worked in the fields of Machine Learning and Systems at my various internships at Microsoft Research, Amazon, Microsoft IDC and IIRS.    
   
